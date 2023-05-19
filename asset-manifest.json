@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aseement-React/static/css/main.ecc758b4.css",
+    "main.js": "/Aseement-React/static/js/main.45134aa2.js",
+    "static/media/light-on.png": "/Aseement-React/static/media/light-on.cdb358ce636d253282be.png",
+    "static/media/light-off.png": "/Aseement-React/static/media/light-off.893fcb381a3a6ead4ce0.png",
+    "index.html": "/Aseement-React/index.html",
+    "main.ecc758b4.css.map": "/Aseement-React/static/css/main.ecc758b4.css.map",
+    "main.45134aa2.js.map": "/Aseement-React/static/js/main.45134aa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecc758b4.css",
+    "static/js/main.45134aa2.js"
+  ]
+}
